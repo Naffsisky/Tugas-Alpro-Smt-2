@@ -7,7 +7,6 @@ Kelas C081 Semester 2
 ### Arsip Code
 Terdiri dari Project dan Tugas
 
-# IG
 ```javascript
 @naffsvn
 https://www.instagram.com/naffsvn/
