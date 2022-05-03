@@ -4,7 +4,6 @@ using namespace std;
 int user, i, j;
 
 int main(){
-	
     cout<<"Masukkan bilangan : ";
     cin>>user;
 
