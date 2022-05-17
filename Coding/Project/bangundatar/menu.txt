@@ -1,0 +1,7 @@
+
+	- - - M E N U - - -
+
+1. Persegi			5. Jajar Genjang
+2. Persegi Panjang		6. Segitiga
+3. Lingkaran			7. Belah ketupat
+4. Trapesium			8. Layang-layang
